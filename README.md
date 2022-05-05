@@ -1,5 +1,5 @@
 # Object-Idenification
-A suite of object identification metrics that I developed for comparing any two geological maps. Scikit-image tools were used.
+A suite of object identification metrics that I developed for comparing geological maps. Scikit-image tools were used.
 
 The dynamic topography field of the Earth represents the uplift and subsidence patterns that are a result of convective stresses within the Earth's mantle.
 
